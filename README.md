@@ -1,5 +1,5 @@
 # Projeto: Copa dos Dados
-##
+#
 Projeto desenvolvido durante participação em evento Copa dos Dados
 
 ## Objetivo
