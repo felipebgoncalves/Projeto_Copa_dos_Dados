@@ -1,14 +1,15 @@
 # Projeto: Copa dos Dados
-#
+
+
 Projeto desenvolvido durante participação em evento Copa dos Dados
 
 ## Objetivo
-##
+
 Criação de um algoritmo de Machine Learning capaz de prever o vencendor da Copa do Mundo
 
 
 ## Coleta de Dados
-##
+
 O dados foram disponibilizados no formato Excel; Foram considerados três arquivos: Campeoes, Jogadores, Jogos Copa do Mundo.
 As informações contidas nos arquivos foram importados para um banco de dados (MongoDB) a fim de alimentar o algoritimo.
 
