@@ -22,3 +22,7 @@ Para inserção dos dados no banco de dados criado, foi realizado a conversão d
 
 
 - Criação do Modelo de Machine learning para prediçao dos jogos.
+
+## Deploy
+Deploy reaizado por meio do Streamlit
+https://copa-dos-dados.streamlit.app/
