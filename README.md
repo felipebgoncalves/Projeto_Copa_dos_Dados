@@ -25,4 +25,5 @@ Para inserção dos dados no banco de dados criado, foi realizado a conversão d
 
 ## Deploy
 Deploy reaizado por meio do Streamlit
-https://copa-dos-dados.streamlit.app/
+
+link: https://copa-dos-dados.streamlit.app/
